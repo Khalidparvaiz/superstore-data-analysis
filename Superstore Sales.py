@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Step 1: Load CSV file
-df = pd.read_csv(r"C:\Users\Khaled\Desktop\Data Analyst\superstore.csv", encoding="latin1")
+df = pd.read_csv("superstore.csv", encoding="latin1")
 
 # Step 2: Remove duplicates
 df.drop_duplicates(keep='first', ignore_index=True, inplace=True)
