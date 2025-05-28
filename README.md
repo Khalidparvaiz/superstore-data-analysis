@@ -15,6 +15,19 @@ Unlike generic analyses, this project emphasizes:
 - **Actionable insights** directly linked to business outcomes  
 - **Modular and well-commented code** for easy customization and extension
 
+## 📁 Repository Structure
+superstore-data-analysis/
+│
+├── superstore.csv # Original dataset
+├── Superstore Sales.py # Complete Python code for analysis
+├── results/ # Output visualizations (screenshots)
+│ ├── category_count.png
+│ ├── segment_profit.png
+│ ├── ship_mode.png
+│ └── regional_pie.png
+└── README.md # Project overview and instructions
+
+
 ## 📂 Files in This Repo
 | File Name          | Description                          |
 |--------------------|------------------------------------|
@@ -29,14 +42,43 @@ Unlike generic analyses, this project emphasizes:
 - seaborn  
 
 ## 💡 Key Insights & Visualizations
-- **Top-performing product categories and sub-categories**  
-- **Most profitable customer segments**  
-- **Preferred shipping modes with sales & profit breakdown**  
-- **Regional profit distribution illustrated with pie charts**
+
+### 1. 📦 Top Performing Product Sub-Categories
+![Category Count](results/category_count.png)
+
+---
+
+### 2. 💰 Most Profitable Customer Segment
+![Segment Profit](results/segment_profit.png)
+
+---
+
+### 3. 🚚 Preferred Shipping Modes (Sales vs Profit)
+![Ship Mode](results/ship_mode.png)
+
+---
+
+### 4. 🌍 Profit Distribution by Region
+![Regional Pie](results/regional_pie.png)
+
+---
 
 ## 🚀 How to Run the Analysis
-1. Clone the repo or download the files  
-2. Ensure `superstore.csv` and `analysis.py` are in the same folder  
-3. Run the script with:  
+
+1. Clone the repo or download the files
+2. Make sure `superstore.csv` and `Superstore Sales.py` are in the same folder
+3. Run the script using:
+
 ```bash
-Superstore Sales.py
+python "Superstore Sales.py"
+
+
+📬 Let's Connect
+
+Want to discuss or collaborate?
+
+    📧 Email: khalidparvaiz.nit@gmail.com
+
+    🔗 LinkedIn
+
+    📂 GitHub
