@@ -44,22 +44,22 @@ superstore-data-analysis/
 ## 💡 Key Insights & Visualizations
 
 ### 1. 📦 Top Performing Product Sub-Categories
-![Category Count](results/category_count.png)
+![Category Count](results/Count of Categories.png)
 
 ---
 
 ### 2. 💰 Most Profitable Customer Segment
-![Segment Profit](results/segment_profit.png)
+![Segment Profit](results/Avg-Profit.png)
 
 ---
 
 ### 3. 🚚 Preferred Shipping Modes (Sales vs Profit)
-![Ship Mode](results/ship_mode.png)
+![Ship Mode](results/Sales & Profit.png)
 
 ---
 
 ### 4. 🌍 Profit Distribution by Region
-![Regional Pie](results/regional_pie.png)
+![Regional Pie](results/Profit Distribution.png)
 
 ---
 
