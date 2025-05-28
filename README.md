@@ -44,7 +44,7 @@ superstore-data-analysis/
 ## 💡 Key Insights & Visualizations
 
 ### 1. 📦 Top Performing Product Sub-Categories
-![Category Count](results/Count-of-Categories.png)
+![Category Count](results/Sub-Categories-Count.png)
 
 ---
 
